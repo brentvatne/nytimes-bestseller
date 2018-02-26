@@ -1,3 +1,0 @@
-rootProject.name = 'nytimesbestseller'
-
-include ':app'
