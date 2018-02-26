@@ -1,4 +1,16 @@
 {
   "name": "nytimesbestseller",
-  "displayName": "nytimesbestseller"
+  "displayName": "nytimesbestseller",
+  "expo": {
+    "name": "NYTimes Best Seller Explorer",
+    "description": "https://github.com/shettypuneeth/nytimes-bestseller",
+    "privacy": "public",
+    "slug": "nytimesbestseller",
+    "sdkVersion": "25.0.0",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "cover"
+     }
+  }
 }
